@@ -39,7 +39,7 @@
 - Đại số ma trận
 - Phương trình trạng thái
 - Quỹ đạo trạng thái và ma trận hàm mũ
-9. Phân tích hệ trên không gian trạng thái
+9. Phân tích hệ thống trên không gian trạng thái
 - Bậc tương đối. Phân tích tính ổn định
 - Tính điều khiển được
 - Tính quan sát được
@@ -51,5 +51,7 @@
 - Điều khiển phản hồi đầu ra dựa trên quan sát trạng thái
   - Bộ quan sát trạng thái Luenberger
   - Nguyên lý tách
-- Bộ điều khiển LQR, LQG
+  - Điều khiển bám tín hiệu đặt
+- Bộ điều khiển LQR
+- Bộ điều khiển LQG
 11. Giới thiệu về điều khiển hệ đa tác tử
