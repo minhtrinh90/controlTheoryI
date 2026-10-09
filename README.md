@@ -1,4 +1,4 @@
-# Học phần: Lý thuyết điều khiển 1 (Control Theory I)
+# Học phần: [Lý thuyết điều khiển 1 (Control Theory I)](https://sites.google.com/view/minhhoangtrinh/teaching/ee3359ee3389_ltdk1)
 ## Mô tả học phần
 - Học phần **EE3359**/**EE3388**/**EE3389** - Lý thuyết điều khiển I/Cơ sở điều khiển tự động (Control theory I/Linear Control Theory/Fundamentals of Control Theory)
 - Kiểm tra - đánh giá:
