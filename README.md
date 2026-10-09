@@ -8,6 +8,7 @@
 - Tài liệu tham khảo:
   - N. D. Phước. “(Lý thuyết điều khiển tuyến tính)[https://nxbbachkhoa.vn/co-so-ly-thuyet-dieu-khien-tuyen-tinh-quyen-1-b10966.html]”, NXB Khoa học kĩ thuật, 2009.
   - K. Ogata. “(Modern Control Engineering)[https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738]”, Prentice Hall, 5th edition, 2010.
+  - N. T. Hà, Bài tập lý thuyết điều khiển tự động
   - [Control Tutorials for MATLAB & SIMULINK](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
   - Slide bài giảng và một số tài liệu khác.
 - Phần mềm: MATLABMATLAB/SIMULINK [Tham khảo hướng dẫn sử dụng](https://sites.google.com/d/0B4McCih5uf_7OHBPdjhBWGUyc28/p/1x0EHlnJwyQzKfwPqlcmKUNHR0peF-qtx/edit?resourcekey=0--j7Uf6eHKdOjJxgM8oRzDw)
